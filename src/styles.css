@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.table {
+}
+
+.tcell {
+  flex-grow: 1;
+  padding: 10px;
+}
